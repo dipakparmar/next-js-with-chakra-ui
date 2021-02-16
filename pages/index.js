@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { Heading, Link, Text, Code, Flex, Box } from "@chakra-ui/react";
 import styles from "../styles/Home.module.css";
+import { DarkModeSwitch } from "../components/ui/DarkModeSwitch";
 
 export default function Home() {
   return (
@@ -133,6 +134,7 @@ export default function Home() {
         </Flex>
       </main>
 
+      <DarkModeSwitch />
       <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
