@@ -1,6 +1,6 @@
 # Next.js with Chakra-UI (Boilerplate)
 
-![Next.js](https://img.shields.io/badge/Next.js-v10.0-black) ![Chakra-UI](https://img.shields.io/badge/Chakra%20UI-v1.3-teal) ![React.js](https://img.shields.io/badge/React.js-v17.0-blueviolet)
+![Next.js](https://img.shields.io/badge/Next.js-v12.1-black) ![Chakra-UI](https://img.shields.io/badge/Chakra%20UI-v1.8-teal) ![React.js](https://img.shields.io/badge/React.js-v17.0-blueviolet)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
